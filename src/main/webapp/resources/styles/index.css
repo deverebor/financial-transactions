@@ -1,0 +1,11 @@
+.financial__label {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.financial__input {
+    border: 1px solid #ccc;
+    background: #FF7F00;
+    display: block;
+}
